@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  ToDoApp
+
+  Created by Proteco on 01/10/22.
+  
+*/
+alert = "¡Cuidado!";
+messageAlert = "Escribe un título para la tarea";
+okAction = "Ok";
+
+doneBtn = "Listo";
+editBtn = "Editar";

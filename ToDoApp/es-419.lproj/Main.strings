@@ -1,0 +1,21 @@
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "B9D-dc-Vsj"; */
+"B9D-dc-Vsj.title" = "Editar";
+
+/* Class = "UITableViewSection"; headerTitle = "Notes"; ObjectID = "IdL-OR-WOR"; */
+"IdL-OR-WOR.headerTitle" = "Notas";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "K5O-np-Y23"; */
+"K5O-np-Y23.title" = "Guardar";
+
+/* Class = "UITableViewSection"; headerTitle = "Date"; ObjectID = "S4s-VY-0St"; */
+"S4s-VY-0St.headerTitle" = "Fecha";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cuK-pY-Siy"; */
+"cuK-pY-Siy.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "nr0-8F-B1n"; */
+"nr0-8F-B1n.title" = "Cancelar";
+
+/* Class = "UITableViewSection"; headerTitle = "Name"; ObjectID = "vm2-zz-WsE"; */
+"vm2-zz-WsE.headerTitle" = "Nombre";
